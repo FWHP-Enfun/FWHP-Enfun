@@ -43,9 +43,15 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 修改開源字體 Modify open source fonts
 
-漢源毛楷 HanYuan MaoKaii
+[偏歪的黑趣體 Crooked Black Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)
 
 歡樂圓童 Happy Circle Child
+  
+漢源毛楷 HanYuan MaoKaii
+  
+日記圓甜 Diary Round Candy
+  
+隨思風楷 SuiSi Feng Kai
 
 # 自己製作 Produce Their Own
 
