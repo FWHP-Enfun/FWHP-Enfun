@@ -20,6 +20,24 @@ Logos, embeds, publication designs can
 github的字體全部不可以盜賣字體，千萬別冒貪財的險，避免上麻煩的官司，罰更多錢
 
 All fonts on github are not allowed to steal and sell fonts, don’t take the risk of being greedy for money, avoid troublesome lawsuits, and pay more fines
+  
+## 我自己創作的字體版權：Font copyright created by myself
+
+全部屬於自己，是SIL Open Font License 1.1授權
+
+All belong to myself, authorized by SIL Open Font License 1.1
+
+## 別人委託我的開源字體版權：Others entrust my open source font copyright
+
+版權屬於我和委託者，是SIL Open Font License 1.1授權
+
+The copyright belongs to me and the commissioner, authorized by SIL Open Font License 1.1
+
+## 我修改的開源字體版權：The copyright of the open source font I modified
+
+版權屬於字體公司和我（參與改字的人），授權大部份是SIL Open Font License 1.1
+
+The copyright belongs to the font company and me (the person who changed the characters), most of the authorization is SIL Open Font License 1.1
 
 # 字體進度 Font progress：
 
@@ -38,24 +56,6 @@ All fonts on github are not allowed to steal and sell fonts, don’t take the ri
 花樂雜寫草草 FWHP Mgrass
 
 花樂繁繁體 FWHP TTC
-
-## 我自己創作的字體版權：Font copyright created by myself
-
-全部屬於自己，是SIL Open Font License 1.1授權
-
-All belong to myself, authorized by SIL Open Font License 1.1
-
-## 別人委託我的開源字體版權：Others entrust my open source font copyright
-
-版權屬於我和委託者，是SIL Open Font License 1.1授權
-
-The copyright belongs to me and the commissioner, authorized by SIL Open Font License 1.1
-
-## 我修改的開源字體版權：The copyright of the open source font I modified
-
-版權屬於字體公司和我（參與改字的人），授權大部份是SIL Open Font License 1.1
-
-The copyright belongs to the font company and me (the person who changed the characters), most of the authorization is SIL Open Font License 1.1
 
 # 注意 Notice
 
