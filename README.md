@@ -55,7 +55,7 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 # 自己製作 Produce Their Own
 
-花樂西方ABC FWHP Floral West ABC
+花樂西方ABC FWHP West ABC
 
 花樂蕙琳守寫 FWHP HuiLin Signwe
 
