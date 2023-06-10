@@ -1,9 +1,11 @@
 <div align="center">
 
 # 你好，我是花樂，是個熱愛畫畫的研究師
-## Hello, I am FWHP, a researcher who loves painting
+# Hello, I am FWHP, a researcher who loves painting
 
 有興趣，你可以看我的字體製作直播，真的非常辛苦製作
+
+If you are interested, you can watch my font making live broadcast, it is really hard to make
 
 https://www.youtube.com/watch?v=GFs2GQFcWGI&list=PLwmlGV_pn1r3N0vowdxg0LnqD1FNPO7Jt&pp=gAQBiAQB
 
