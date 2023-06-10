@@ -51,7 +51,7 @@ The copyright belongs to the font company and me (the person who changed the cha
   
 日記圓甜 Diary Round Candy
   
-隨思風楷 SuiSi Feng Kai
+隨思風楷 SuiSi FengKai
 
 # 自己製作 Produce Their Own
 
