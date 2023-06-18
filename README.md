@@ -57,6 +57,8 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 # 自己製作 Produce Their Own
 
+[花樂缺漢字 FWHP no CJK](https://github.com/FWHP-Enfun/FWHP-no-CJK)
+
 花樂西方ABC FWHP West ABC(未完成 undone)
 
 花樂蕙琳守寫 FWHP HuiLin Signwe(未完成 undone)
