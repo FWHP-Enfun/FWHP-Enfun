@@ -47,6 +47,8 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 [偏歪的黑趣體 Crooked Black Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)
 
+[混菜寫楷](https://github.com/FWHP-Enfun/Mixed-VsWeKai)
+
 [歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Font/blob/main/Progress/Happy%20Circle%20Child.md)
 
 [漢源毛楷 HanYuan MaoKaii(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Font/blob/main/Progress/HanYuan%20MaoKaii.md)
