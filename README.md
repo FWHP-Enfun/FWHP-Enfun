@@ -49,6 +49,8 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 [混菜寫楷 Mixed VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)
 
+[似寫隨黑 Lrite Wlack](https://github.com/FWHP-Enfun/Lrite-Wlack)
+
 [歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Font/blob/main/Progress/Happy%20Circle%20Child.md)
 
 [漢源毛楷 HanYuan MaoKaii(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Font/blob/main/Progress/HanYuan%20MaoKaii.md)
