@@ -1,0 +1,33 @@
+<style>
+@font-face {
+font-family: SweiB2LegCJKtc-Regular;
+src: url(https://github.com/max32002/swei-b2-leg/raw/master/WebFont/CJK%20TC/SweiB2LegCJKtc-Regular.woff2) format(“woff2”), url(https://github.com/max32002/swei-b2-leg/raw/master/WebFont/CJK%20TC/SweiB2LegCJKtc-Regular.woff) format(“woff”);
+}
+.sweib2leg_textarea {
+display: block;
+width: calc(100% – 46px);
+height: 96px;
+margin: 10px;
+padding: 12px;
+background: #fff;
+border:1px solid #333;
+border-radius: 2px;
+box-shadow: inset 3px 3px 3px rgba(0,0,0,0.25);
+-moz-box-shadow: inset 3px 3px 3px rgba(0,0,0,0.25);
+-webkit-box-shadow: inset 3px 3px 3px rgba(0,0,0,0.25);
+font-size: 42px;
+overflow: auto;
+resize: none;
+outline: none;
+}
+</style>
+<script>
+function sweib2leg_size_input_change(cnt){
+var size_val = Number(document.getElementById(“sweib2leg_size_input_” + cnt).value);
+document.getElementById(“sweib2leg_textarea_” + cnt).style.fontSize = size_val + “px”;
+}
+</script>
+
+<p>測試效果：字體大小<input type=”number” id=”sweib2leg_size_input_0″ value=”42″ style=”width: 80px; text-align: right;” onchange=”sweib2leg_size_input_change(0);” onkeyup=”sweib2leg_size_input_change(0);”>px</p>
+
+<textarea class=”sweib2leg_textarea” id=”sweib2leg_textarea_0″ style=”font-family: ‘SweiB2LegCJKtc-Regular'”>可以輸入文字測試效果</textarea>
