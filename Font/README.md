@@ -1,6 +1,8 @@
+<div align="center">
+  
+# 花樂的開源字體授權 FWHP's open source font licensing
 
-
-![](https://github.com/FWHP-Enfun/FWHP-Enfun.github.io/blob/main/Font/FWHP%20Font.png)
+![](https://github.com/FWHP-Enfun/FWHP-Enfun/blob/main/Font/FWHP%20Font.png)
 
 這裡字體全部可以免費商用，可以放心
 
