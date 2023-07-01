@@ -1,0 +1,32 @@
+<style>
+@font-face {
+  src: url("https://www.axis-praxis.org/fonts/webfonts/Portada_Variable-Upright.woff2") format("woff2");
+  font-family: 'Portada Variable Upright';
+  font-style: normal;
+  font-weight: normal;
+}
+  
+main{
+/*字型基本樣式*/
+  font-size: 15rem;
+  text-align: center;
+  color: transparent;
+  font-family: 'Portada Variable Upright', sans-serif;
+/*可變字型樣式*/
+  font-variation-settings: "wght" 900, "ital" 1;
+/*字型陰影。利用多組陰影數值、顏色等，來達到顯示字型的陰影層次效果*/
+  text-shadow: 10px 10px 0px #07bccc, 15px 15px 0px #e601c0, 20px 20px 0px #e9019a, 25px 25px 0px #f40468, 45px 45px 10px #482896;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+main:hover {
+  font-variation-settings: "wght" 100, "ital" 0;
+  text-shadow: none;
+}
+  
+</style>
+
+<div style="font-family: 'Portada Variable Upright'">
+    <p>Weight</p>
+  </div>
