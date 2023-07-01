@@ -45,12 +45,9 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 修改開源字體 Modify open source fonts
 
-[偏歪的黑趣體 Crooked Black Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)
-
-[混菜寫楷 Mixed VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)
-
-[似寫隨黑 Lrite Wlack](https://github.com/FWHP-Enfun/Lrite-Wlack)
-
+[偏歪的黑趣體 Crooked Black Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)、
+[混菜寫楷 Mixed VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)、
+[似寫隨黑 Lrite Wlack](https://github.com/FWHP-Enfun/Lrite-Wlack)、
 [似寫隨宋 Lrite Wsong](https://github.com/FWHP-Enfun/Lrite-Wsong)
 
 [歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun/blob/main/Font/Progress/Happy%20Circle%20Child.md)
@@ -65,12 +62,9 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 [花樂缺漢字 FWHP no CJK](https://github.com/FWHP-Enfun/FWHP-no-CJK)
 
-花樂西方ABC FWHP West ABC(未完成 undone)
-
-花樂蕙琳守寫 FWHP HuiLin Signwe(未完成 undone)
-
-花樂雜寫草草 FWHP Mgrass(未完成 undone)
-
+花樂西方ABC FWHP West ABC(未完成 undone)、
+花樂蕙琳守寫 FWHP HuiLin Signwe(未完成 undone)、
+花樂雜寫草草 FWHP Mgrass(未完成 undone)、
 花樂繁繁體 FWHP TTC(未完成 undone)
 
 # 注意 Notice
