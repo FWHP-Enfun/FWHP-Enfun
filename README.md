@@ -53,9 +53,9 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 [似寫隨宋 Lrite Wsong](https://github.com/FWHP-Enfun/Lrite-Wsong)
 
-[歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun.github.io/blob/master/Font/Progress/Happy%20Circle%20Child.md)
+[歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun/blob/main/Font/Progress/Happy%20Circle%20Child.md)
 
-[漢源毛楷 HanYuan MaoKaii(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun.github.io/blob/master/Font/Progress/HanYuan%20MaoKaii.md)
+[漢源毛楷 HanYuan MaoKaii(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun/blob/main/Font/Progress/HanYuan%20MaoKaii.md)
   
 日記圓甜 Diary Round Candy(未完成 undone)
   
