@@ -6,12 +6,16 @@
     <style>
 
 @font-face{font-family:'Preview';
-src: url(https://cdn.jsdelivr.net/gh/FWHP-Enfun/FWHP-no-CJK@1.0/FWHP%20no%20CJK.ttf) format("opentype")}
+src: url(https://cdn.jsdelivr.net/gh/FWHP-Enfun/FWHP-no-CJK@master/Woff/FWHP%20no%20CJK%20B.woff)
+}
 @font-face{font-family:'Preview0';
-src: url(https://cdn.jsdelivr.net/gh/FWHP-Enfun/FWHP-no-CJK@1.0/FWHP%20no%20CJK%20B.ttf) format("opentype")}
+src: url(https://cdn.jsdelivr.net/gh/FWHP-Enfun/FWHP-no-CJK@master/Woff/FWHP%20no%20CJK.woff)
+}
 
 @font-face{font-family:'Preview1';
-src: url(https://cdn.jsdelivr.net/gh/FWHP-Enfun/Crooked-Black-Fun@1.0/CrookedBlackFun-Regular.ttf) format("opentype")}
+src: url(https://cdn.jsdelivr.net/gh/FWHP-Enfun/Crooked-Black-Fun@master/Woff/CrookedBlackFun-Regular.woff2),
+url(https://cdn.jsdelivr.net/gh/FWHP-Enfun/Crooked-Black-Fun@master/Woff/CrookedBlackFun-Regular.woff)
+}
 
 .sweib2leg_textarea {
 	display: block;
@@ -35,9 +39,11 @@ src: url(https://cdn.jsdelivr.net/gh/FWHP-Enfun/Crooked-Black-Fun@1.0/CrookedBla
         #Preview_title {font-family:'Preview','Preview0';}
         #Preview_text {font-family:'Preview','Preview0';}
         #Preview_ente {font-family:'Preview','Preview0';}
+
         #Preview_title1 {font-family:'Preview1';}
         #Preview_text1 {font-family:'Preview1';}
         #Preview_ente1 {font-family:'Preview1';}
+
     </style>
 </head>
 
@@ -60,19 +66,17 @@ I'm new to web design and I suck at programming, the web will look bad and the c
 <p>輸入看看 Enter to see～</p>
 <p>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!?,."'()[]{}:;/\_#+-=~|@<>*</p>
 
-字型大小： <input type="range" id="volume" step="1" max="150" min="12" value="52" onchange="Pwsize(value)">
+字型大小： <input type="range" step="1" max="150" min="12" value="52" onchange="Pwsize(value)">
 <span id="Tpwsize"></span>px
 
-<input id='Preview_textBox' type="search" name="Preview_textBox" size="100" placeholder="輸入文字Aa1234測試" value="預覽字體 Example Text">
+<input id='Preview_textBox' type="search" size="100" placeholder="輸入文字Aa1234測試" value="預覽字體 Example Text">
 <p id='Preview_text'>預覽字體 Example Text</p>
 
 <p>
 文字預覽：字體大小
-<input type="number" id="sweib2leg_size_input_0" min="12" value="52" style="width: 40px; text-align: right;" onchange="PwImport(value);">px
+<input type="number" min="12" value="52" style="width: 40px; text-align: right;" onchange="PwImport(value);">px
 
-<textarea class="sweib2leg_textarea" id="Preview_ente">
-輸入文字Aa.Bb,Cc/Dd^1234測試
-</textarea>
+<textarea class="sweib2leg_textarea" id="Preview_ente">輸入文字Aa.Bb,Cc/Dd^1234測試</textarea>
 </p>
 字體網址 Font URL：<a href="https://github.com/FWHP-Enfun/FWHP-no-CJK">https://github.com/FWHP-Enfun/FWHP-no-CJK</a>
 
@@ -85,19 +89,17 @@ I'm new to web design and I suck at programming, the web will look bad and the c
 <p>輸入看看 Enter to see～</p>
 <p>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!?,."'()[]{}:;/\_#+-=~|@<>*</p>
 
-字型大小： <input type="range" id="volume" step="1" max="150" min="12" value="52" onchange="Pwsize1(value)">
+字型大小： <input type="range" step="1" max="150" min="12" value="52" onchange="Pwsize1(value)">
 <span id="Tpwsize1"></span>px
 
-<input id='Preview_textBox1' type="search" name="Preview_textBox1" size="100" placeholder="輸入文字Aa1234測試" value="預覽字體 Example Text">
+<input id='Preview_textBox1' type="search" size="100" placeholder="輸入文字Aa1234測試" value="預覽字體 Example Text">
 <p id='Preview_text1'>預覽字體 Example Text</p>
 
 <p>
 文字預覽：字體大小
-<input type="number" id="sweib2leg_size_input_0" min="12" value="52" style="width: 40px; text-align: right;" onchange="PwImport1(value);">px
+<input type="number" min="12" value="52" style="width: 40px; text-align: right;" onchange="PwImport1(value);">px
 
-<textarea class="sweib2leg_textarea" id="Preview_ente1">
-輸入文字Aa.Bb,Cc/Dd^1234測試
-</textarea>
+<textarea class="sweib2leg_textarea" id="Preview_ente1">輸入文字Aa.Bb,Cc/Dd^1234測試</textarea>
 </p>
 字體網址 Font URL：<a href="https://github.com/FWHP-Enfun/Crooked-Black-Fun">https://github.com/FWHP-Enfun/Crooked-Black-Fun</a>
 
@@ -110,7 +112,7 @@ I'm new to web design and I suck at programming, the web will look bad and the c
 
 
     <!-- JavaScript -->
-    <script type="text/javascript">
+    <script>
 
         const newPwInput = document.getElementById('Preview_textBox');
         const newPwOutput = document.getElementById('Preview_text');
@@ -132,6 +134,9 @@ function PwImport(x){
 var chagefz=document.getElementById("Preview_ente");
 chagefz.style.fontSize=Number(x)+ "px" ;
 }
+    </script>
+
+    <script>
 
 const newPwInput1 = document.getElementById('Preview_textBox1');
         const newPwOutput1 = document.getElementById('Preview_text1');
