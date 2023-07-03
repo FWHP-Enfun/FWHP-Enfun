@@ -3,11 +3,17 @@
 # 你好，我是花樂，是個熱愛畫畫的研究師
 # Hello, I am FWHP, a researcher who loves painting
 
+https://www.youtube.com/watch?v=GFs2GQFcWGI&list=PLwmlGV_pn1r3N0vowdxg0LnqD1FNPO7Jt&pp=gAQBiAQB
+
 有興趣，你可以看我的字體製作直播，真的非常辛苦製作
 
 If you are interested, you can watch my font making live broadcast, it is really hard to make
 
-https://www.youtube.com/watch?v=GFs2GQFcWGI&list=PLwmlGV_pn1r3N0vowdxg0LnqD1FNPO7Jt&pp=gAQBiAQB
+https://gamejolt.com/games/FWHP-Variable-Font/820221
+
+我還做了可變字體，但效果很差、實用性不高，到這個網站試，iso有老毛病，iso可能不能用
+
+I also made a variable font, but the effect is very poor and the practicability is not high. Try this website, the iso has old problems, and the iso may not work
 
 這裡字體全部可以免費商用，可以放心
 
