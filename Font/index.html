@@ -67,7 +67,7 @@ I'm new to web design and I suck at programming, the web will look bad and the c
 <p>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!?,."'()[]{}:;/\_#+-=~|@<>*</p>
 
 字型大小： <input type="range" step="1" max="150" min="12" value="52" onchange="Pwsize(value)">
-<span id="Tpwsize"></span>px
+<output id="Tpwsize">52 px</output>
 
 <input id='Preview_textBox' type="search" size="100" placeholder="輸入文字Aa1234測試" value="預覽字體 Example Text">
 <p id='Preview_text'>預覽字體 Example Text</p>
@@ -90,7 +90,7 @@ I'm new to web design and I suck at programming, the web will look bad and the c
 <p>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!?,."'()[]{}:;/\_#+-=~|@<>*</p>
 
 字型大小： <input type="range" step="1" max="150" min="12" value="52" onchange="Pwsize1(value)">
-<span id="Tpwsize1"></span>px
+<output id="Tpwsize1">52 px</output>
 
 <input id='Preview_textBox1' type="search" size="100" placeholder="輸入文字Aa1234測試" value="預覽字體 Example Text">
 <p id='Preview_text1'>預覽字體 Example Text</p>
@@ -126,7 +126,7 @@ I'm new to web design and I suck at programming, the web will look bad and the c
 function Pwsize(x){
 var chagefz=document.getElementById("Preview_text");
 var chagefz1=document.getElementById("Tpwsize");
-chagefz1.innerHTML=Number(x);
+chagefz1.innerHTML=Number(x)+ " px" ;
 chagefz.style.fontSize=Number(x)+ "px" ;
 }
 
@@ -150,7 +150,7 @@ const newPwInput1 = document.getElementById('Preview_textBox1');
 function Pwsize1(x){
 var chagefz=document.getElementById("Preview_text1");
 var chagefz1=document.getElementById("Tpwsize1");
-chagefz1.innerHTML=Number(x);
+chagefz1.innerHTML=Number(x)+ " px" ;
 chagefz.style.fontSize=Number(x)+ "px" ;
 }
 
