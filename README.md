@@ -9,6 +9,12 @@ https://www.youtube.com/watch?v=GFs2GQFcWGI&list=PLwmlGV_pn1r3N0vowdxg0LnqD1FNPO
 
 If you are interested, you can watch my font making live broadcast, it is really hard to make
 
+https://fwhp-enfun.github.io/FWHP-Enfun/Font/
+
+我做了字體預覽網站，希望試打看看
+
+I made a font preview website, I hope to try it out
+
 https://gamejolt.com/games/FWHP-Variable-Font/820221
 
 我還做了可變字體，但效果很差、實用性不高，到這個網站試，iso有老毛病，iso可能不能用
