@@ -60,7 +60,8 @@ The copyright belongs to the font company and me (the person who changed the cha
 [偏歪的黑趣體 Crooked Black Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)、
 [混菜寫楷 Mixed VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)、
 [似寫隨黑 Lrite Wlack](https://github.com/FWHP-Enfun/Lrite-Wlack)、
-[似寫隨宋 Lrite Wsong](https://github.com/FWHP-Enfun/Lrite-Wsong)
+[似寫隨宋 Lrite Wsong](https://github.com/FWHP-Enfun/Lrite-Wsong)、
+[汲古明體 JiGu Ming](https://github.com/FWHP-Enfun/JiGu-Ming)
 
 [歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun/blob/main/Font/Progress/Happy%20Circle%20Child.md)
 
