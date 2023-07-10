@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=GFs2GQFcWGI&list=PLwmlGV_pn1r3N0vowdxg0LnqD1FNPO
 
 If you are interested, you can watch my font making live broadcast, it is really hard to make
 
-https://fwhp-enfun.github.io/FWHP-Enfun/Font/
+https://fwhp-enfun.github.io/Font/
 
 我做了字體預覽網站，希望試打看看
 
@@ -61,7 +61,8 @@ The copyright belongs to the font company and me (the person who changed the cha
 [混菜寫楷 Mixed VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)、
 [似寫隨黑 Lrite Wlack](https://github.com/FWHP-Enfun/Lrite-Wlack)、
 [似寫隨宋 Lrite Wsong](https://github.com/FWHP-Enfun/Lrite-Wsong)、
-[汲古明體 JiGu Ming](https://github.com/FWHP-Enfun/JiGu-Ming)
+[汲古明體 JiGu Ming](https://github.com/FWHP-Enfun/JiGu-Ming)、
+[文鼎舊楷簡繁 AR Kai STC](https://github.com/FWHP-Enfun/AR-Kai-STC)
 
 [歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun/blob/main/Font/Progress/Happy%20Circle%20Child.md)
 
@@ -81,6 +82,12 @@ The copyright belongs to the font company and me (the person who changed the cha
 花樂繁繁體 FWHP TTC(未完成 undone)
 
 # 注意 Notice
+
+https://github.com/FWHP-Enfun/Waiting-Manage-Font
+
+我有做等管字體系列，有些版權不明，可能無法商用
+
+I have made other tube font series, some copyrights are unknown and may not be commercially available
 
 沒事別到淘寶和蝦皮買字體，字體授權完全不明
 
