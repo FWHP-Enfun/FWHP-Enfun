@@ -64,9 +64,9 @@ The copyright belongs to the font company and me (the person who changed the cha
 [汲古明體 JiGu Ming](https://github.com/FWHP-Enfun/JiGu-Ming)、
 [文鼎舊楷簡繁 AR Kai STC](https://github.com/FWHP-Enfun/AR-Kai-STC)
 
-[歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun/blob/main/Font/Progress/Happy%20Circle%20Child.md)
+[歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun.github.io/blob/main/Font/Progress/Happy%20Circle%20Child.md)
 
-[漢源毛楷 HanYuan MaoKaii(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun/blob/main/Font/Progress/HanYuan%20MaoKaii.md)
+[漢源毛楷 HanYuan MaoKaii(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun.github.io/blob/main/Font/Progress/HanYuan%20MaoKaii.md)
   
 日記圓甜 Diary Round Candy(未完成 undone)
   
