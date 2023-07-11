@@ -57,12 +57,10 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 修改開源字體 Modify open source fonts
 
-[偏歪的黑趣體 Crooked Black Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)、
-[混菜寫楷 Mixed VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)、
-[似寫隨黑 Lrite Wlack](https://github.com/FWHP-Enfun/Lrite-Wlack)、
-[似寫隨宋 Lrite Wsong](https://github.com/FWHP-Enfun/Lrite-Wsong)、
-[汲古明體 JiGu Ming](https://github.com/FWHP-Enfun/JiGu-Ming)、
-[文鼎舊楷簡繁 AR Kai STC](https://github.com/FWHP-Enfun/AR-Kai-STC)
+[偏歪的黑趣體 Crooked Black Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)、[混菜寫楷 Mixed VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)、
+[似寫隨黑 Lrite Wlack](https://github.com/FWHP-Enfun/Lrite-Wlack)、[似寫隨宋 Lrite Wsong](https://github.com/FWHP-Enfun/Lrite-Wsong)、
+[汲古明體 JiGu Ming](https://github.com/FWHP-Enfun/JiGu-Ming)、[文鼎舊楷簡繁 AR Kai STC](https://github.com/FWHP-Enfun/AR-Kai-STC)、
+[宅在家系列字體 Star Love Font](https://github.com/FWHP-Enfun/Star-Love-Font)、[演示系列字體 Slide Font](https://github.com/FWHP-Enfun/Slide-Font)
 
 [歡樂圓童 Happy Circle Child(未完成 undone)](https://github.com/FWHP-Enfun/FWHP-Enfun.github.io/blob/main/Font/Progress/Happy%20Circle%20Child.md)
 
