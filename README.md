@@ -3,13 +3,15 @@
 # 你好，我是花樂，是個熱愛畫畫的研究師
 # Hello, I am FWHP, a researcher who loves painting
 
-當時，我喜歡Paradox遊戲，覺得地圖的變動很有趣，文字的地圖讓我想要笑，找了很多免費商用的字體，繁體字體很少，我不喜歡中國寫法，我有想要跟清鬆一樣，做或修改一些免費的繁體字體，為全世界做一些貢獻
+////\\\\////\\\\
 
-At that time, I liked the Paradox game and thought the map changes were interesting. The map with text made me want to laugh. I found a lot of free commercial fonts. There were very few traditional Chinese fonts. I didn’t like Chinese writing. I wanted to be like Kiyosatsu. , make or modify some free traditional Chinese fonts, and make some contributions to the world
+## 當時，我喜歡Paradox遊戲，覺得地圖的變動很有趣，文字的地圖讓我想要笑，找了很多免費商用的字體，繁體字體很少，我不喜歡中國寫法，我有想要跟清鬆一樣，做或修改一些免費的繁體字體，為全世界做一些貢獻
+## At that time, I liked the Paradox game and thought the map changes were interesting. The map with text made me want to laugh. I found a lot of free commercial fonts. There were very few traditional Chinese fonts. I didn’t like Chinese writing. I wanted to be like Kiyosatsu. , make or modify some free traditional Chinese fonts, and make some contributions to the world
 
-後來電腦壞了，裡面資料都壞了，連遊戲原始碼沒了，我非常傷心，加上有新喜好，我不想做字體，我仔細一想一個人做中文字體超辛苦，就算完成不一定有人會下載，我認為大部分的人很不尊重中文字體，我的遊戲沒人想要玩，我已經不想改做字體，我早就不愛Paradox遊戲
+## 後來電腦壞了，裡面資料都壞了，連遊戲原始碼沒了，我非常傷心，加上有新喜好，我不想做字體，我仔細一想一個人做中文字體超辛苦，就算完成不一定有人會下載，我認為大部分的人很不尊重中文字體，我的遊戲沒人想要玩，我已經不想改做字體，我早就不愛Paradox遊戲
+## Later, the computer broke down and all the data inside was damaged. Even the source code of the game was lost. I was very sad. Plus, I had new hobbies and I didn’t want to make fonts. When I thought about it carefully, it was very hard for one person to make Chinese fonts. Even if I finished it, no one would be able to do it. Download, I think most people disrespect Chinese fonts, no one wants to play my games, I no longer want to change the fonts, I have long stopped loving Paradox games
 
-Later, the computer broke down and all the data inside was damaged. Even the source code of the game was lost. I was very sad. Plus, I had new hobbies and I didn’t want to make fonts. When I thought about it carefully, it was very hard for one person to make Chinese fonts. Even if I finished it, no one would be able to do it. Download, I think most people disrespect Chinese fonts, no one wants to play my games, I no longer want to change the fonts, I have long stopped loving Paradox games
+////\\\\////\\\\
 
 https://www.youtube.com/watch?v=GFs2GQFcWGI&list=PLwmlGV_pn1r3N0vowdxg0LnqD1FNPO7Jt&pp=gAQBiAQB
 
