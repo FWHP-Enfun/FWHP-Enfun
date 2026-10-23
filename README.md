@@ -70,15 +70,18 @@ The copyright belongs to the font company and me (the person who changed the cha
 [偏歪的黑趣體 Crooked Black Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)、[混菜寫楷 Mixed VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)、
 [似寫隨黑 Lrite Wlack](https://github.com/FWHP-Enfun/Lrite-Wlack)、[似寫隨宋 Lrite Wsong](https://github.com/FWHP-Enfun/Lrite-Wsong)、
 [汲古明體 JiGu Ming](https://github.com/FWHP-Enfun/JiGu-Ming)、[文鼎舊楷簡繁 AR Kai STC](https://github.com/FWHP-Enfun/AR-Kai-STC)、
-[宅在家系列字體 Star Love Font](https://github.com/FWHP-Enfun/Star-Love-Font)、[演示系列字體 Slide Font](https://github.com/FWHP-Enfun/Slide-Font)
 
 [歡樂圓童 Happy Circle Child(未完成 undone)](https://fwhp-enfun.github.io//wiki/Happy%20Circle%20Child/)
 
 [漢源毛楷 HanYuan MaoKaii(未完成 undone)](https://fwhp-enfun.github.io//wiki/HanYuan%20MaoKaii/)
-  
-日記圓甜 Diary Round Candy(未完成 undone)
-  
-隨思風楷 SuiSi FengKai(未完成 undone)
+
+後面2個取消，是因為我有很多混亂立場
+
+The last two were cancelled because I had many conflicting stances.
+
+從漢源毛楷之後，我不改沒上傳在Google Fonts的字體，之後我只改台灣和日本⋯⋯製作的字體
+
+After HanYuan MaoKaii, I stopped modifying fonts that weren't uploaded to Google Fonts. After that, I only modified fonts created in Taiwan and Japan...
 
 # 自己製作 Produce Their Own
 
@@ -86,8 +89,23 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 花樂西方ABC FWHP West ABC(未完成 undone)、
 花樂蕙琳守寫 FWHP HuiLin Signwe(未完成 undone)、
-花樂雜寫草草 FWHP Mgrass(未完成 undone)、
-花樂繁繁體 FWHP TTC(未完成 undone)
+（部份自己＋Ai）花樂雜寫草草 FWHP Mgrass(未完成 undone)、
+花樂嘗寫字 Fwhp Tryowe(未完成 undone)、
+（Ai）CG25AF圓寫體 Round Handwritten Font(未完成 undone)
+
+1個取消原因是用不能商用的中國字體技術，1個是重新用其他技術，整個重置等待未來
+One reason for cancellation was the use of Chinese font technology that is not commercially viable; another was the need to revert to other technologies. The entire process is now awaiting future developments.
+
+# 保管的小改字體 Saved Minor Changes Fonts
+[宅在家系列字體 Star Love Font](https://github.com/FWHP-Enfun/Star-Love-Font)、[演示系列字體 Slide Font](https://github.com/FWHP-Enfun/Slide-Font)
+
+這個可以方便修改的字體版本
+
+This font version can be easily modified.
+
+有1個是當時的一時衝動去求，這個毛筆風格真的很漂亮，這時候Ai對中文字發展很沒發達
+
+One of them was a spur-of-the-moment decision to request it; the calligraphy style was truly beautiful. At that time, AI was not yet well-developed in the field of Chinese character creation.
 
 # 注意 Notice
 
