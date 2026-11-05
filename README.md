@@ -67,6 +67,8 @@ The copyright belongs to the font company and me (the person who changed the cha
 
 修改開源字體 Modify open source fonts
 
+小改
+
 [偏歪的黑趣體 Crooked Black Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)、[混菜寫楷 Mixed VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)、
 [似寫隨黑 Lrite Wlack](https://github.com/FWHP-Enfun/Lrite-Wlack)、[似寫隨宋 Lrite Wsong](https://github.com/FWHP-Enfun/Lrite-Wsong)、
 [汲古明體 JiGu Ming](https://github.com/FWHP-Enfun/JiGu-Ming)、[文鼎舊楷簡繁 AR Kai STC](https://github.com/FWHP-Enfun/AR-Kai-STC)、[三角特刊體 Triangle Specialss](https://github.com/FWHP-Enfun/Triangle-Specialss)
@@ -91,7 +93,8 @@ After HanYuan MaoKaii, I stopped modifying fonts that weren't uploaded to Google
 花樂蕙琳守寫 FWHP HuiLin Signwe(未完成 undone)、
 （部份自己＋Ai）花樂雜寫草草 FWHP Mgrass(未完成 undone)、
 花樂嘗寫字 Fwhp Tryowe(未完成 undone)、
-（Ai）CG25AF圓寫體 Round Handwritten Font(未完成 undone)
+（Ai）FZICG25AF混癌毛筆 FZICG25AF Haun Hair Kiai(未完成 undone)、
+（Ai）CG25AF圓寫體 CG25AF Round Haiten Font(未完成 undone)、
 
 1個取消原因是用不能商用的中國字體技術，1個是重新用其他技術，整個重置等待未來
 One reason for cancellation was the use of Chinese font technology that is not commercially viable; another was the need to revert to other technologies. The entire process is now awaiting future developments.
